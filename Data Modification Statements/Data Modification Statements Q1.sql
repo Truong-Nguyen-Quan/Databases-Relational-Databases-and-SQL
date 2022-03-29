@@ -1,0 +1,1 @@
+insert into College values ('Carnegie Mellon', 'PA', 11500);
